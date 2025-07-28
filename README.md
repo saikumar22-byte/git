@@ -2,6 +2,7 @@
 git basics to advanced topics
 
 ################# **Git Commands Used in This Demo** ##################
+
 **git status**
 Shows the current state of the working directory and staging area. It tells you which files have changes that are staged, unstaged, or untracked.
 
