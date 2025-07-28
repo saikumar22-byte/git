@@ -1,0 +1,80 @@
+Welcome to your DevOps & Git practice environment!
+
+Current Date & Time: Tuesday 29 July 2025 01:58:53 AM IST
+Logged in User: ar-in-u-095
+System Uptime: up 1 hour, 46 minutes
+
+Disk Usage:
+/bin/df -h | grep '^/dev/'
+
+Home Directory Listing:
+total 3.5M
+drwxr-x--- 27 ar-in-u-095 ar-in-u-095 4.0K Jul 24 22:35 .
+drwxr-xr-x  3 root        root        4.0K May 12 12:52 ..
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095 1.1K Jul 24 22:35 Arrise-new
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095  45K May 23 21:11 arrise-project.odt
+drwxrwxr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 25 03:40 .aws
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095 1.6K Jun  9 09:33 AZ-204
+-rw-------  1 ar-in-u-095 ar-in-u-095  35K Jul 29 00:12 .bash_history
+-rw-r--r--  1 ar-in-u-095 ar-in-u-095  220 May 12 12:52 .bash_logout
+-rw-r--r--  1 ar-in-u-095 ar-in-u-095 3.7K May 12 12:52 .bashrc
+drwx------ 29 ar-in-u-095 ar-in-u-095 4.0K Jul 12 01:21 .cache
+drwxrwxr-x  3 ar-in-u-095 ar-in-u-095 4.0K Jul 29 00:14 .cisco
+drwx------ 32 ar-in-u-095 ar-in-u-095 4.0K Jul 29 00:13 .config
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095  293 May 27 02:47 confluence
+drwxr-xr-x  3 ar-in-u-095 ar-in-u-095 4.0K Jul 26 17:12 Desktop
+drwxr-xr-x  9 ar-in-u-095 ar-in-u-095 4.0K Jul 29 01:28 Documents
+drwxrwxr-x  3 ar-in-u-095 ar-in-u-095 4.0K May 25 02:43 .dotnet
+-rwxrwxr-x  1 ar-in-u-095 ar-in-u-095 1.3K Jun 17 13:56 download-logs1.sh
+-rwxrwxr-x  1 ar-in-u-095 ar-in-u-095 1.3K Jun 23 09:15 download-logs2.sh
+-rwxrwxr-x  1 ar-in-u-095 ar-in-u-095  564 Jun 12 12:26 download-logs.sh
+drwxr-xr-x  7 ar-in-u-095 ar-in-u-095 4.0K Jul 29 00:12 Downloads
+drwxr-xr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 12 13:00 .fontconfig
+drwx------  3 ar-in-u-095 ar-in-u-095 4.0K May 12 13:37 .gnome
+drwx------  2 ar-in-u-095 ar-in-u-095 4.0K Jun 12 07:13 .gnupg
+-rw-------  1 ar-in-u-095 ar-in-u-095  419 Jun  1 19:52 id_rsa
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095 1.4K Jun  9 12:35 kube-arrise
+drwx------  4 ar-in-u-095 ar-in-u-095 4.0K Jul  7 21:40 .local
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095   89 May 23 23:54 .~lock.TCS-AZ-in.odt#
+drwx------  3 ar-in-u-095 ar-in-u-095 4.0K May 12 13:33 .Microsoft
+drwxr-xr-x  5 ar-in-u-095 ar-in-u-095 4.0K May 14 03:48 Music
+drwxrwxr-x  3 ar-in-u-095 ar-in-u-095 4.0K May 12 13:30 .openjfx
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095  49K Jul  8 03:39 Pasted image.png
+drwxr-xr-x  4 ar-in-u-095 ar-in-u-095 4.0K Jun 23 10:09 Pictures
+drwx------  3 ar-in-u-095 ar-in-u-095 4.0K May 12 13:20 .pki
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095  399 Jun  3 07:10 ppadmin
+-rw-r--r--  1 ar-in-u-095 ar-in-u-095  807 May 12 12:52 .profile
+drwxr-xr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 12 12:56 Public
+drwx------  8 ar-in-u-095 ar-in-u-095 4.0K May 25 03:08 snap
+drwx------  2 ar-in-u-095 ar-in-u-095 4.0K Jul 11 00:04 .ssh
+-rw-r--r--  1 ar-in-u-095 ar-in-u-095    0 May 12 12:57 .sudo_as_admin_successful
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095 3.2M Jun 12 10:36 syslogs-- BJ41.3-Euro
+-rw-rw-r--  1 ar-in-u-095 ar-in-u-095 2.3K Jun 12 13:27 sys-script
+drwxr-xr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 12 12:56 Templates
+drwxr-xr-x  2 ar-in-u-095 ar-in-u-095 4.0K Jul 12 17:28 .terraform.d
+drwxr-xr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 12 12:56 Videos
+drwxrwxr-x  2 ar-in-u-095 ar-in-u-095 4.0K May 12 13:22 .vpn
+drwxrwxr-x  4 ar-in-u-095 ar-in-u-095 4.0K May 12 13:20 .vscode
+
+----------------------------
+# Git Repository Overview
+----------------------------
+
+Repository Path: /home/ar-in-u-095/Documents/git
+Current Branch: main
+Latest Commit:
+  a6274dd - saikumar22-byte, 32 minutes ago : Initial commit
+Status Summary:
+?? welcome.sh
+?? welcome.txt
+
+Untracked files (if any):
+welcome.sh
+welcome.txt
+
+Remotes URL(s):
+origin	https://github.com/saikumar22-byte/git.git (fetch)
+origin	https://github.com/saikumar22-byte/git.git (push)
+
+Last Fetch/Push:
+a6274dd HEAD@{31 minutes ago}: clone: from https://github.com/saikumar22-byte/git.git
